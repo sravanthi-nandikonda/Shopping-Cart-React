@@ -12,10 +12,16 @@ const App = () => {
     
   return (
     <BrowserRouter>
+<<<<<<< HEAD
        
        <div className ='App'>
        <Header/>
        
+=======
+      
+       <div className ='App'>
+     <Header/>
+>>>>>>> 2062cf6b0cb59fc94b2d2d69dd8e430adae9deea
          <Route path='/'  exact>
          <Home/>
          </Route>
